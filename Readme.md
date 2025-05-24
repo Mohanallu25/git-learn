@@ -1,0 +1,1 @@
+it a demo class for git&gitHub
